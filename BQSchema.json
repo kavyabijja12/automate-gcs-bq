@@ -1,0 +1,24 @@
+{
+    "BigQuery Schema": [
+      {
+        "name": "Name",
+        "type": "STRING"
+      },
+      {
+        "name": "RollNo",
+        "type": "INTEGER"
+      },
+      {
+        "name": "Age",
+        "type": "INTEGER"
+      },
+      {
+        "name": "Gender",
+        "type": "STRING"
+      },
+      {
+        "name": "College",
+        "type": "STRING"
+      }
+    ]
+  }
