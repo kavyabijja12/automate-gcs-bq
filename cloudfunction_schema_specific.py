@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
 
 
-def trigger_df_job():   
+def trigger_df_job(cloud_event):   
  
     service = build('dataflow', 'v1b3')
     project = "norse-lens-429400-m1"

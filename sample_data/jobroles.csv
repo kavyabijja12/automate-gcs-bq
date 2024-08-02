@@ -1,0 +1,11 @@
+technology,rolename,location,zipcode,yearsofexperience
+Python,Data Scientist,New York,10001,5
+Java,Software Engineer,San Francisco,94105,3
+JavaScript,Front End Developer,Seattle,98101,4
+C++,Embedded Systems Engineer,Austin,73301,6
+C#,Backend Developer,Chicago,60601,2
+Ruby,DevOps Engineer,Denver,80201,7
+SQL,Database Administrator,Los Angeles,90001,8
+PHP,Web Developer,Miami,33101,1
+Go,Site Reliability Engineer,Boston,02101,5
+Swift,iOS Developer,San Diego,92101,3
