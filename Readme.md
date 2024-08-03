@@ -8,10 +8,13 @@ create a cloud function trigger to automatically create table and upload data to
 
 ## Process
 - Upload data to gcs bucket
+<img src="images/Bigquery.png">
 - cloud functon triggers
 - creates Bigquery table with the required schema
+<img src="images/cloudfunction.png">
 - Trigger cloud function to upload data to bigquery
 - Data is loaded to Bigquery
+<img src="images/gcsbucket.png">
 
 ## Technology Used
 - Programming Language - Python
